@@ -1,0 +1,15 @@
+.NoteContainer{
+    margin: 1rem;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+.Date{
+    font-size: 10px;
+}
+.DeleteBtn{
+    color: red;
+    margin-left: 8px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    width: 20px;
+}
